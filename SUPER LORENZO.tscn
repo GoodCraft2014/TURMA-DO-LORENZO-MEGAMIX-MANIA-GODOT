@@ -1,0 +1,13 @@
+[gd_scene load_steps=2 format=3 uid="uid://c4gkd2ctflf0e"]
+
+[ext_resource type="Texture2D" uid="uid://cmjc30r0x4jop" path="res://ADV.png" id="1"]
+
+[node name="SUPER LORENZO" type="Node2D"]
+
+[node name="ADV" type="Sprite2D" parent="."]
+position = Vector2(291.388, 300.752)
+rotation = -3.14159
+scale = Vector2(1.28942, -1.34541)
+texture = ExtResource("1")
+hframes = 3
+vframes = 29
